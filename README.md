@@ -1,7 +1,8 @@
-### Hi there 👋 I am Rohan Jamdade
-<br>
 
-### Some Words About Me
+### Hi there 👋
+I'm Rohan Jamdade, a mechanical engineer turned data scientist. I'm passionate about leveraging data and technology to solve complex problems and drive innovation.
+<br>
+### Here are some words About Myself
 ---
 #### I obtained a Bachelor's degree in Mechanical Engineering and subsequently pursued a 3-month internship in automation testing at Cognizant. Currently, I am working as a professional in Cognizant Technology Solutions, I have extensive knowledge of Python and its libraries, advanced SQL, and ML.<br>
 
