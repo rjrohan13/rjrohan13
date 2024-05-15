@@ -1,25 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm Rohan Jamdade</h1>
-<h3 align="center">An Insightfull Data Analyst from India</h3>
+<h3 align="center">Data Scientist from India</h3>
 
-### Here are some words About Myself
+### Who am I?
 ---
-#### I obtained a Bachelor's degree in Mechanical Engineering and subsequently pursued a 3-month internship in automation testing at Cognizant. Currently, I am working as a professional in Cognizant Technology Solutions, I have extensive knowledge of Python and its libraries, advanced SQL, and ML.<br>
+#### I obtained a Bachelor's degree from SPPU and subsequently pursued a 6-month internship in Data Analyst at Cognizant. Currently, I am working as a professional Data Scientist in Cognizant Technology Solutions, I have extensive knowledge of Python and its libraries, advanced SQL, Statistucs, Data analysis and Virtualization, ML, NLP, MLOps, Azure Cloud.<br>
 
-#### I am passionate about data science and is keen to pursue a career in this field. My proficiency in Python, including my expertise in object-oriented programming and related skills, makes me a valuable asset to any data science team. Additionally, my knowledge of advanced SQL and machine learning algorithms is an added advantage. R I am highly analytical and detail-oriented, with a natural curiosity for understanding complex problems and finding innovative solutions.<br>
+#### I am passionate about data science. My proficiency in Python, including my expertise in object-oriented programming and related skills, makes me a valuable asset to any data science team. Additionally, my knowledge of advanced SQL and machine learning algorithms, understanding of ML life Cycle, experince on Azure ML studio, familiar with MLOps principles is an added advantage. I am highly analytical and detail-oriented, with a natural curiosity for understanding complex problems and finding innovative solutions.<br>
 
-#### Overall, I am a dedicated and hardworking individual who is always striving to expand his knowledge and skills. My expertise in automation testing, Python programming, and data science make me a valuable asset to any team. I am passionate about using my skills to make a positive impact in the world of data science, and i am eager to take on new challenges and opportunities in this field.<br>
+#### Overall, I am a dedicated and hardworking individual who is always striving to expand his knowledge and skills. My expertise in Python programming, and data science make me a valuable asset to any team. I am passionate about using my skills to make a positive impact in the world of data science, and i am eager to take on new challenges and opportunities in this field.<br>
 ---
 
 
 
-- 🔭 I’m currently working on [Real_estate_Gurgaon End-to-End ML project](https://github.com/rjrohan13/Real_estate_gurgaon)
+- 🔭 I’m currently working on [Real_estate_Gurgaon End-to-End ML project]([https://github.com/rjrohan13/Real_estate_gurgaon](https://github.com/rjrohan13/Capstone_project))
 
-- 🌱 I’m currently learning **ML Algorithms**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Analysis, AI, ML projects**
 
-- 💬 Ask me about **python, Data analysis, Data visualization, Statistic, ML algorithm.**
+- 💬 Ask me about **python, Data analysis, Data visualization, Statistic, ML algorithms, Deep Learning, NLP, and latest trends and technologies.**
 
 - 📫 How to reach me **rohanjamdade1326@gmail.com**
 
